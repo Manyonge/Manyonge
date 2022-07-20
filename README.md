@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manyonge
+- 👋 Hi, I’m Arthur 
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with typescript ❤️
+- 💞️ I’m looking to collaborate on front-end development 
 - 📫 How to reach me arturias2019@gmail.com
 
 <!---
