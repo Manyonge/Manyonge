@@ -8,7 +8,7 @@ I'm a Full Stack TypeScript Engineer passionate about building impactful solutio
 
 ## 🛠 Technical Expertise
 
-- **Frontend**: Next.js 13+, React, React Native, TailwindCSS, Shadcn
+- **Frontend**: Next.js 13+, React, React Native , TailwindCSS, Shadcn
 - **Backend**: Node.js, NestJS, Express
 - **Database**: Prisma, PostgreSQL
 - **State Management**: Server Components, Zustand, TanStack Query
@@ -27,23 +27,41 @@ I'm a Full Stack TypeScript Engineer passionate about building impactful solutio
 
 ## 🚀 Featured Projects
 
-### [Storemint](https://storemint.co.ke/)
+### [Storemint](https://staging1.storemint.co.ke/)
 A comprehensive e-commerce platform built with Next.js and TypeScript
 - Implemented secure payment processing with Paystack integration
 - Built robust form validation using Zod
 - Designed reusable component system with TailwindCSS and Shadcn
 
-### [Pickup Mtaani, Full Stack Engineer](https://new.pickupmtaani.com/)
+### [Pickup Mtaani Full Stack Engineer](https://new.pickupmtaani.com/)
 Delivery service integration using NestJS
 - Implemented factory pattern for scalable architecture
 - Built efficient data caching system
 - Designed paginated API endpoints for optimal performance
+
+### [The Rebirth of a Queen](https://www.therebirthofaqueen.org/)
+A platform for empowering survivors of gender-based violence
+- Developed an impactful storytelling platform with Next.js
+- Implemented responsive design principles for optimal user experience
+- Currently developing a custom CMS for content management
 
 ### [Fitness Buddies](https://fitnessbuddies.org/)
 A fitness platform with social impact
 - Integrated secure payment processing
 - Built responsive UI with modern design principles
 - Implemented comprehensive analytics tracking
+
+### Windsor Golf Management System
+A comprehensive golf club management solution
+- Developed tournament management features
+- Implemented player statistics tracking
+- Built real-time scoring system
+
+### Galaxy Mid Stream Construction Management System
+An enterprise resource planning system for construction projects
+- Designed project tracking and resource management features
+- Implemented role-based access control
+- Built dynamic reporting system
 
 ## 🎯 Current Focus
 
